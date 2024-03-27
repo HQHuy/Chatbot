@@ -1,4 +1,4 @@
 # netlify.toml
 [build]
   command = "./build.sh"
-  publish = "/Users/hqhyy/Desktop/chat bot" # Thư mục chứa tệp HTML, CSS và tài nguyên tĩnh
+  publish = "/HQHuy/Chatbot" # Thư mục chứa tệp HTML, CSS và tài nguyên tĩnh
